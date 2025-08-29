@@ -12,4 +12,4 @@ In England, the dream that once flickered dimly in Portugal began to burn anew. 
 This journey across borders is echoed by many in the medical field, a reminder that professional aspirations and the search for survival can lead to unexpected, life-changing opportunities wherever determination and hope endure.
 
 
-{% include image.html url="[http://www.gratisography.com](https://en.wikipedia.org/wiki/Nuclear_medicine)" image="projects/proj-1/nuclear-medicine-icon-symbol-premium-quality-vector-30421762" %}
+{% include image.html url="https://en.wikipedia.org/wiki/Nuclear_medicine" image="projects/proj-1/nuclear-medicine-icon-symbol-premium-quality-vector-30421762" %}
